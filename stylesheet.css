@@ -1,0 +1,26 @@
+.a{
+	height: 150px;
+	width: 350px;
+	padding:10px 10px 10px 10px;
+    margin:10px 30px 10px 20px;
+    text-align: left;
+    background-color: yellow;
+}
+
+.b{
+	height: 150px;
+	width: 350px;
+    padding:10px 10px 10px 10px;
+    margin:10px 30px 10px 20px;
+    text-align: left;
+    background-color: red;
+}
+
+.c{
+	height: 150px;
+	width: 350px;
+    padding:10px 10px 10px 10px;
+    margin:10px 30px 10px 20px;
+    text-align: left;
+    background-color: yellow;
+}
